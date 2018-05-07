@@ -7,7 +7,7 @@ Useful links on setting-up DNS at home
 * [Setup DNS server for local network (with DHCP) for use with apache](https://askubuntu.com/questions/217303/setup-dns-server-for-local-network-with-dhcp-for-use-with-apache)
 * [Howto: Setup a DNS server with bind](https://ubuntuforums.org/showthread.php?t=236093)
 
-
+---
 * Custome Router Frimware based DNS config 
   * [DD-WRT](https://www.dd-wrt.com/site/index) - [How to doc](https://www.dd-wrt.com/wiki/index.php/DNSMasq_as_DHCP_server)
   * [OpenWrt](http://wiki.openwrt.org/start) - [How to doc](http://wiki.openwrt.org/doc/howto/dhcp.dnsmasq)
